@@ -36,3 +36,28 @@
     transform: rotate(360deg);
   }
 }
+
+button {
+  width: 50px;
+  height: 30px;
+  background-color: white;
+  color: black;
+  border: 1px solid #4caf50;
+  padding: 0.3em;
+  margin: 1em;
+}
+button:hover {
+  width: 50px;
+  height: 30px;
+  background-color: #4caf50;
+  color: white;
+  color: black;
+  border: 1px solid #4caf50;
+  padding: 0.3em;
+  margin: 1em;
+  cursor: pointer;
+}
+
+p {
+  font-size: large;
+}
