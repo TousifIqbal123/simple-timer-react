@@ -52,7 +52,7 @@ export default class App extends Component {
   render() {
     return (
       <div className="App">
-        <h3>Simple Counter</h3>
+        <h3>Simple Timer</h3>
         <span>
           <DecrementButton decrementCount={this.decrementCount} />
           {this.state.count}
