@@ -1,3 +1,3 @@
-## Simple Timer App Made with React
+## Simple Timer App Made With React
 
-Click [here](https://practical-visvesvaraya-7818d9.netlify.app/) to preview.
+Click [here](https://jovial-wing-6d05ac.netlify.app/) to preview.
